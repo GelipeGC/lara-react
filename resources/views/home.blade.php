@@ -14,6 +14,7 @@
                         </div>
                     @endif
                     <div id="create-article"></div>
+                    <div id="counter"></div>
                 </div>
             </div>
         </div>
