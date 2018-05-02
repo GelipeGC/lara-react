@@ -14,3 +14,5 @@ require("./bootstrap");
 
 require("./components/CreateArticle");
 require("./components/Counter");
+require("./components/ListsProducts");
+require("./components/Product");
