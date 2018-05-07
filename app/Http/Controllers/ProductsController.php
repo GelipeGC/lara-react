@@ -40,7 +40,7 @@ class ProductsController extends Controller
             'description' => 'required',
             'price' => 'integer',
             'availibility' => 'boolean',
-        ]);
+            ]);
 
         $product = Product::create($request->all());
 

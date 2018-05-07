@@ -8,7 +8,7 @@ class AddProduct extends Component {
         title: "",
         description: "",
         price: 0,
-        availibility: 0
+        availability: 0
       }
     };
     //Boilerplate code for binding methods withc 'this'
